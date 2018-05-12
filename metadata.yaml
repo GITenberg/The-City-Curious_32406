@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '35828'
     url: http://www.gutenberg.org/2009/agents/35828
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32406#The-City-Curious
 gutenberg_issued: '2010-05-17'
 gutenberg_type: Text
 identifiers:
