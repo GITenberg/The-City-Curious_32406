@@ -1,0 +1,44 @@
+_repo: The-City-Curious_32406
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Jesse, F. Tennyson (Fryniwyd Tennyson)
+    aliases:
+    - Jesse, Fryniwyd Tennyson
+    - Jesse, Wynifried Margaret
+    - Tinker, Beamish
+    - Harwood, Mrs. Harold
+    birthdate: 1888
+    deathdate: 1958
+    gutenberg_agent_id: '5375'
+    url: http://www.gutenberg.org/2009/agents/5375
+    wikipedia: http://en.wikipedia.org/wiki/Fryniwyd_Tennyson_Jesse
+covers:
+- cover_type: archival
+  image_path: 32406-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Boschère, Jean de
+    aliases:
+    - De Boschère, Jean
+    - Bosschere, Jean de
+    - Boschere, Jean de
+    - Bosschère, Jean de
+    birthdate: 1878
+    deathdate: 1953
+    gutenberg_agent_id: '35828'
+    url: http://www.gutenberg.org/2009/agents/35828
+description: Illustrated by the author.
+gutenberg_issued: '2010-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature'
+- !lcc 'PZ'
+title: The City Curious
+url: http://www.gutenberg.org/ebooks/32406
